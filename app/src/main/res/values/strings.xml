@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">仓库安防</string>
+
+    <string name="gas_light">煤气</string>
+    <string name="infrared_light">热释电红外</string>
+
+    <string name="store_location">仓库位置</string>
+    <string name="location_default">沿山路</string>
+
+    <string name="gas_current">当前煤气浓度(%)</string>
+    <string name="gas_current_default">0</string>
+
+    <string name="gas_warning">警戒煤气浓度(%)</string>
+    <string name="gas_default">50</string>
+
+    <string name="infrared">仓库内</string>
+    <string name="infrared_default">没人</string>
+
+    <string name="tv_loc_reset">切换</string>
+    <string name="btn_gas_reset">修改</string>
+
+    <string name="hint_text_gas">请输入设置的浓度值</string>
+    <string name="hint_text_loc">请输入仓库所在的位置</string>
+
+    <string name="manager">管理仓库地址</string>
+    <string name="default_cb">设为默认</string>
+    <string name="delete">删除</string>
+    <string name="add">添加新地址</string>
+</resources>
